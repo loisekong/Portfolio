@@ -120,6 +120,9 @@ body,html {
 .space-between-nav{
     display: flex;
     justify-content: space-between  ;
+@media only screen and  (max-width:992px) {
+        flex-direction
+    }
 }
 
 .book-button {
@@ -445,3 +448,7 @@ footer{
 
 
 }
+
+@media only screen and  (max-width:992px) {
+      
+    }
