@@ -117,6 +117,10 @@ body,html {
     color: var(--body-color);
 
 }
+.space-between-nav{
+    display: flex;
+    justify-content: space-between  ;
+}
 
 .book-button {
     background-color: transparent;
